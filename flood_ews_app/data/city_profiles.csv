@@ -1,0 +1,5 @@
+city,adjustment_factor,description
+Manila,1.00,Baseline reference city; dense urban drainage network
+Marikina,1.10,Riverside location along Marikina River; historically highest flood risk in Metro Manila
+Pasig,1.08,Bisected by Pasig River; low-lying barangays highly susceptible to flooding
+Quezon City,0.95,Partially elevated terrain in northern districts; improved drainage in some areas

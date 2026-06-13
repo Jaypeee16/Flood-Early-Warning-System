@@ -1,0 +1,8 @@
+{
+    "type": "sigmoid_fallback",
+    "midpoint": 30,
+    "steepness_k": 0.3,
+    "description": "Fallback sigmoid parameters derived from sigmoid-augmented Metro Manila flood dataset (2016-2020). Used when flood_model.joblib is not present.",
+    "optimal_threshold_mm": 21.5,
+    "cost_ratio": "10:1 FN:FP"
+}
